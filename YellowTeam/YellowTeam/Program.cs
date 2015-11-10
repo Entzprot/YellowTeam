@@ -10,7 +10,7 @@ namespace YellowTeam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("PULL");
+            Console.WriteLine("PULLs");
         }
     }
 }
