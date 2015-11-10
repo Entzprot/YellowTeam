@@ -12,7 +12,7 @@ namespace YellowTeam
         {
             Console.WriteLine("PULLs");
             // Kathrin
-            //ramos
+            //RamosWasHere
             //CHRISSER
             //Emil
         
