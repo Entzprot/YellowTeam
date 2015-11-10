@@ -12,7 +12,7 @@ namespace StudyConfiguration
         {
             Console.WriteLine("PULLs");
             // Kathrin
-            //RamosWasHere
+            //RamosWasHer
             //CHRISSER
             //Emil
         
