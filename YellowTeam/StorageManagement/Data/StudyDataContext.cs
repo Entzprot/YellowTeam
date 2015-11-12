@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeamCRUD
+
+namespace StorageManagement.Data
 {
-    class Program
+    public class StudyDataContext 
     {
-        static void Main(string[] args)
-        {
-        }
+
+
     }
+
 }

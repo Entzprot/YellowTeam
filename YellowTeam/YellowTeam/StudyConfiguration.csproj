@@ -52,12 +52,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="BiblographyParser\bibTex\BibTexParser.cs" />
+    <Compile Include="BiblographyParser\DefaultFieldChecker.cs" />
+    <Compile Include="BiblographyParser\DefaultItemChecker.cs" />
+    <Compile Include="BiblographyParser\FieldValidator.cs" />
+    <Compile Include="BiblographyParser\IBibliographyParser.cs" />
+    <Compile Include="BiblographyParser\IFieldChecker.cs" />
+    <Compile Include="BiblographyParser\IItemChecker.cs" />
+    <Compile Include="BiblographyParser\ItemValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StorageManagement\StorageManagement.csproj">
+      <Project>{e313fac6-c9a6-4db0-967e-7fa14d6af878}</Project>
+      <Name>StorageManagement</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
