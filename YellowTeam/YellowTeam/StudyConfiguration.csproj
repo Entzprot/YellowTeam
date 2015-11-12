@@ -43,12 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BiblographyParser\bibTex\BibTexParser.cs" />
+    <Compile Include="BiblographyParser\DefaultFieldChecker.cs" />
+    <Compile Include="BiblographyParser\DefaultItemChecker.cs" />
+    <Compile Include="BiblographyParser\FieldValidator.cs" />
+    <Compile Include="BiblographyParser\IBibliographyParser.cs" />
+    <Compile Include="BiblographyParser\IFieldChecker.cs" />
+    <Compile Include="BiblographyParser\IItemChecker.cs" />
+    <Compile Include="BiblographyParser\ItemValidator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
