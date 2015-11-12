@@ -11,7 +11,7 @@ namespace StudyConfiguration
         static void Main(string[] args)
         {
             Console.WriteLine("PULLs");
-            // Kathrin
+            //Kathrin
             //RamosWasHer
             //CHRISSER
             //Emil
