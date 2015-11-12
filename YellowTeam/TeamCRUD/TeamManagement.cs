@@ -3,15 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using StorageManagement;
 
 namespace TeamCRUD
 {
     class TeamManagement
     {
+        TeamSaver _teamSaver;
    
         public TeamManagement()
         {
-            throw new NotImplementedException();
+            _teamSaver = new TeamSaver();
+        }
+
+        public TeamManagement(TeamSaver teamSaver)
+        {
+            _teamSaver = teamSaver;
         }
 
         public void CreateTeam()
