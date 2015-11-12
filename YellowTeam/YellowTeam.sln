@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyOverview", "StudyOverv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageManagement", "StorageManagement\StorageManagement.csproj", "{E313FAC6-C9A6-4DB0-967E-7FA14D6AF878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageServer", "StorageServer\StorageServer.csproj", "{E3964B5E-EFC2-4813-8F85-9C036E02517C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "StorageServer\Repository.csproj", "{E3964B5E-EFC2-4813-8F85-9C036E02517C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
