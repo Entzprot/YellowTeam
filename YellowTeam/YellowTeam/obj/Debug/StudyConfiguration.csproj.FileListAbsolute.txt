@@ -1,0 +1,6 @@
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\bin\Debug\YellowTeam.exe.config
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\bin\Debug\YellowTeam.exe
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\bin\Debug\YellowTeam.pdb
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\obj\Debug\StudyConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\obj\Debug\YellowTeam.exe
+C:\Users\Christopher\Documents\GitHubVisualStudio\YellowTeam\YellowTeam\YellowTeam\obj\Debug\YellowTeam.pdb
