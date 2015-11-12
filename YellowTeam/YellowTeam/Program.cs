@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace YellowTeam
+namespace StudyConfiguration
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace YellowTeam
         {
             Console.WriteLine("PULLs");
             // Kathrin
-            //ramos
+            //RamosWasHer
             //CHRISSER
             //Emil
         
