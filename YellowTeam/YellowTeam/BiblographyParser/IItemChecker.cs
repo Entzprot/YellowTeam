@@ -1,4 +1,6 @@
-﻿namespace BibliographyParser
+﻿using StorageManagement.Data;
+
+namespace BibliographyParser
 {
     /// <summary>
     /// Interface for field checkers.

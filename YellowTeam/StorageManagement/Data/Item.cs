@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace StorageManagement
+namespace StorageManagement.Data
 {
     /// <summary>
     /// This class defines a bibliographic item.

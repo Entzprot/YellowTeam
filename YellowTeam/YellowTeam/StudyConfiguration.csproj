@@ -51,13 +51,17 @@
     <Compile Include="BiblographyParser\IFieldChecker.cs" />
     <Compile Include="BiblographyParser\IItemChecker.cs" />
     <Compile Include="BiblographyParser\ItemValidator.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\StorageManagement\StorageManagement.csproj">
+      <Project>{e313fac6-c9a6-4db0-967e-7fa14d6af878}</Project>
+      <Name>StorageManagement</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
